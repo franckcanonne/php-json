@@ -1,10 +1,12 @@
 <?php
 /*
+ *
  Script d'export json des communes de France depuis la base de données de l'Insee.
  Développé par Franck Canonne.
  franck.canonne@gmail.com
  https://le7.net
  https://qr.bzh
+
  */
 
 class Constantes
